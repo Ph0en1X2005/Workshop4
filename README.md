@@ -178,20 +178,26 @@ public class Perceptron : MonoBehaviour {
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки  обучения. Указать от чего зависит необходимое количество эпох обучения.
 
-- Ход работы: для запуска программы создайте новый C# Script в unity, вписав в него нижеприведённый код. После этого создайте пустой объект и перетащите в него скрипт. Нажмите на кнопку "Play" и в консоли высветится сообщение "Hello, World!".
+- Ход работы: Заполнить google-таблицу данными об эпохах и визуализировать их с помощью графиков.
+1.OR
 
-```py
+![image](https://github.com/user-attachments/assets/bef54113-6303-4ff7-ab5e-be9d3baaada7)
 
-using UnityEngine;
-   public class HelloWorld : MonoBehaviour
-   {
-       void Start()
-       {
-           Debug.Log("Hello, World!");
-       }
-   }
+2.AND
 
-```
+![image](https://github.com/user-attachments/assets/0c48bff0-5897-457a-8a01-17d119ba640d)
+
+3.NAND
+
+![image](https://github.com/user-attachments/assets/4b74aa5b-89fa-49ad-b126-af7267373ef9)
+
+4.XOR
+
+![image](https://github.com/user-attachments/assets/73a994df-4710-4164-a901-268bf43d483a)
+
+
+
+
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
