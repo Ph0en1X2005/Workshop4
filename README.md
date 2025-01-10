@@ -160,10 +160,10 @@ public class Perceptron : MonoBehaviour {
 ![image](https://github.com/user-attachments/assets/c972cf84-7730-4ced-86fd-a90df0ea0c1e)
 
 3)NAND. Работает корректно, необходимо 3 эпохи, чтобы перцептрон работал без ошибок.
-![image](https://github.com/user-attachments/assets/a9d4eeea-2a54-4b3d-8863-20d897b29a4c)
+![image](https://github.com/user-attachments/assets/67d9eaf9-61c3-4093-a38e-5709dddf18a7)
 
 4)XOR. Работает некорректно, т.к перцептрон работает только с линейными функциями, а XOR - нелинейная.
-![image](https://github.com/user-attachments/assets/955d5e01-07d9-4aef-9b64-9f0717daa1dc)
+![image](https://github.com/user-attachments/assets/647357a1-03ae-46df-be85-7517aca0ae84)
 
 
 
