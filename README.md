@@ -163,8 +163,7 @@ public class Perceptron : MonoBehaviour {
 ![image](https://github.com/user-attachments/assets/a0d8cf6a-38b2-4e77-a9ed-60ccc6442bca)
 
 4)XOR. Работает некорректно, т.к перцептрон работает только с линейными функциями, а XOR - нелинейная.
-![image](https://github.com/user-attachments/assets/647357a1-03ae-46df-be85-7517aca0ae84)
-
+![image](https://github.com/user-attachments/assets/0c1c3d0c-25bd-4a24-b59a-0f41bc41a13b)
 
 
 
