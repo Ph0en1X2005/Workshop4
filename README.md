@@ -192,7 +192,7 @@ public class Perceptron : MonoBehaviour {
 
 4.XOR
 
-![image](https://github.com/user-attachments/assets/73a994df-4710-4164-a901-268bf43d483a)
+![image](https://github.com/user-attachments/assets/7fa337e3-7753-4d23-8baa-80177a4de4c9)
 
 
 
