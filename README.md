@@ -189,7 +189,7 @@ public class Perceptron : MonoBehaviour {
 
 3.NAND
 
-![image](https://github.com/user-attachments/assets/4b74aa5b-89fa-49ad-b126-af7267373ef9)
+![image](https://github.com/user-attachments/assets/7509a783-c034-4504-ba98-ad47c1a0ee26)
 
 4.XOR
 
