@@ -185,7 +185,7 @@ public class Perceptron : MonoBehaviour {
 
 2.AND
 
-![image](https://github.com/user-attachments/assets/0c48bff0-5897-457a-8a01-17d119ba640d)
+![image](https://github.com/user-attachments/assets/e9f2bd02-581c-40d6-8244-7439627160a4)
 
 3.NAND
 
