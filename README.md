@@ -152,6 +152,9 @@ public class Perceptron : MonoBehaviour {
 	}
 }
 ```
+1)OR. Работает корректно, без ошибок
+![image](https://github.com/user-attachments/assets/e3a051c0-4587-4805-ab58-6b94d6192d89)
+
 
 
 
